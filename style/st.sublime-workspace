@@ -1,0 +1,933 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"section	<section>"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pdin",
+				"padding"
+			],
+			[
+				"text",
+				"textDecoration	Style CSS"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"form",
+				"form	Attr"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"getElement",
+				"getElementsByTagName( localName: DOMString ): HTMLCollection	Element"
+			],
+			[
+				"getEl",
+				"description-getElementsByTagName()	Document"
+			],
+			[
+				"local",
+				"localStorage: Storage	Window"
+			],
+			[
+				"set",
+				"setInterval( handler: any, timeout?: long, arguments...: any ): long	Window"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"my",
+				"mySec"
+			],
+			[
+				"myM",
+				"myMinutes"
+			],
+			[
+				"get",
+				"getSeconds(): int	Date"
+			],
+			[
+				"getM",
+				"getMonth(): int	Date"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"input",
+				"inputb	input - button"
+			],
+			[
+				"create",
+				"createTextNode( data: DOMString ): Text	Document"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pic",
+				"picArr"
+			],
+			[
+				"valueOf",
+				"valueOf(): string	String"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"first",
+				"first"
+			],
+			[
+				"else",
+				"else if()"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"您的",
+				"您的成绩"
+			],
+			[
+				"value",
+				"valueOf(): string	String"
+			],
+			[
+				"bo",
+				"border-collapse"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"inset",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"getE",
+				"getElementById( elementId: DOMString ): Element	Document"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"title",
+				"title	Attr"
+			],
+			[
+				"con",
+				"console.	console.groupEnd()"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"createE",
+				"createElement( localName: DOMString ): Element	Document"
+			],
+			[
+				"rotate",
+				"rotateY()"
+			],
+			[
+				"cell",
+				"cellpadding	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"post",
+				"position"
+			],
+			[
+				"tra",
+				"translate()"
+			],
+			[
+				"ani",
+				"anim	animation"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"onmou",
+				"onmousedown: EventHandler	Window"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"ov",
+				"ov	overflow: ${1:hidden};"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"hei",
+				"height	.height()"
+			],
+			[
+				"sett",
+				"setTimeout( handler: any, timeout?: long, arguments...: any ): long	Window"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"to",
+				"toggle	.toggle()"
+			],
+			[
+				"height",
+				"height	Style CSS"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"borders",
+				"borderStyle	Style CSS"
+			],
+			[
+				"animate",
+				"animate	.animate()"
+			],
+			[
+				"tans",
+				"transparent"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"wrap",
+				"wrapInner	.wrapInner()"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"str",
+				"strstr2"
+			],
+			[
+				"toSti",
+				"toString"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"doc",
+				"document: Document	Window"
+			],
+			[
+				"la",
+				"label	Tag"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"boder-b",
+				"border-box"
+			],
+			[
+				"ap",
+				"appendChild( node: Node ): Node	Node"
+			],
+			[
+				"createe",
+				"createElement( localName: DOMString ): Element	Document"
+			],
+			[
+				"ania",
+				"animate	.animate()"
+			],
+			[
+				"angu",
+				"angular.bootstrap"
+			],
+			[
+				"if",
+				"angular.isFunction"
+			],
+			[
+				"location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"ge",
+				"get	.get()"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ball",
+				"ball"
+			],
+			[
+				"consl",
+				"console.	console.log()"
+			],
+			[
+				"di",
+				"die	.die()"
+			],
+			[
+				"$hps",
+				"$httpParamSerializer"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"cont",
+				"controller	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS(DI)"
+			],
+			[
+				"ser",
+				"serialize	.serialize()"
+			],
+			[
+				"ngRout",
+				"angular: $route"
+			],
+			[
+				"mdul",
+				"angular.module"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"modu",
+				"angular.module"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "set mark",
+		"selected_items":
+		[
+			[
+				"set mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Format CSS: Compact (Break Selectors, No Spaces)"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/yifan yu/Desktop/YYFのAutumn/项目/style/st.css",
+		"/C/Users/yifan yu/Desktop/YYFのAutumn/项目/不想吃的东西.html",
+		"/C/Users/yifan yu/Desktop/YYFのAutumn/项目/1.html",
+		"/d/Users/User/Desktop/Sublime插件安装.txt",
+		"/C/Sublime Text 3/Data/Packages/User/Markdown.sublime-settings",
+		"/C/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/projects/2048/js/animation.js",
+		"/D/projects/2048/index.html",
+		"/D/projects/2048/js/support.js",
+		"/D/projects/2048/js/main.js",
+		"/d/Users/User/Desktop/阶段一/1 JAVA入门/笔记&代码/mypro01/src/Welcome.java",
+		"/d/Users/User/Desktop/阶段一/3 流程控制/笔记&代码/mypro03/src/mypro03/Test01.java",
+		"/d/Users/User/Desktop/阶段一/3 流程控制/笔记&代码/mypro03/src/mypro03/Test02.java",
+		"/d/Users/User/Desktop/阶段一/7 异常处理机制/笔记&代码/Exception Demo/FileTest.java",
+		"/d/Users/User/Desktop/阶段一/7 异常处理机制/笔记&代码/mypro07/src/mypro072/ExceptionTest.java",
+		"/d/Users/User/Desktop/阶段一/7 异常处理机制/笔记&代码/mypro07/src/mypro072/ExceptionTest02.java",
+		"/d/Users/User/Desktop/阶段一/7 异常处理机制/笔记&代码/mypro07/src/mypro072/ExceptionTest03.java",
+		"/D/projects/extra/day01/list.html",
+		"/D/projects/extra/day01/08.html",
+		"/D/projects/extra/day01/12.html",
+		"/D/projects/extra/day02/list.html",
+		"/D/projects/extra/day01/11.html",
+		"/D/projects/extra/day01/00.html",
+		"/C/Sublime Text 3/Data/Packages/User/cl.sublime-snippet",
+		"/D/angular/code/day01/07.在$scope中定义方法.html",
+		"/D/angular/code/day01/06.$rootscope.html",
+		"/D/angular/code/day01/05.$scope.html",
+		"/E/jQuery备课/JQnote.txt",
+		"/D/前端书/CSS案例/12.1.html",
+		"/E/canvas/canvas基础.html",
+		"/E/canvas/shishi.html",
+		"/G/JavaScript代码/day11/08.异常Exception.html",
+		"/G/JavaScript代码/day11/07.原型链.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day06/作业.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day13/作业.html",
+		"/d/Users/User/Desktop/gouzaohanshu.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day06/09.函数回调时传递参数.html",
+		"/E/jQuery备课/09.子元素过滤选择器.html",
+		"/E/jQuery备课/08.属性过滤选择器.html",
+		"/E/VUE/demo/感觉自己函数和对象学会了？.html",
+		"/d/Users/User/Desktop/let.html",
+		"/E/jQuery备课/JQUI/JQcookie.html",
+		"/E/jQuery备课/01.核心库.html",
+		"/D/课件/jQuery/content/01.jQuery基础.html",
+		"/D/课件/jQuery/css/style.css",
+		"/D/课件/jQuery/css/index.css",
+		"/D/课件/jQuery/js/jQuery基础.js",
+		"/D/课件/jQuery/index.html",
+		"/D/课件/jQuery/content/01.jQuer基础.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day11/01.闭包Closure.html",
+		"/E/jQuery备课/07.可见性过滤选择器.html",
+		"/E/Swiper/DEMO/01.html",
+		"/E/Swiper/DEMO/02.自适应，全屏，分页.html",
+		"/E/Swiper/DEMO/css/01.css",
+		"/E/Swiper/DEMO/css/02.css",
+		"/E/jQuery备课/06.内容过滤.html",
+		"/E/jQuery备课/02JQ语法特征.html",
+		"/E/jQuery备课/03.基本选择器.html",
+		"/E/jQuery备课/04.层次选择器.html",
+		"/E/jQuery备课/05.基本过滤选择器.html",
+		"/D/pcpage/index.html",
+		"/G/阶段项目/第一阶段项目/02移动端/css/index.css",
+		"/E/jQuery备课/fi.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day14/04.WebStorageListener.html",
+		"/d/Users/User/Desktop/前端书图片/检测浏览器是否支持webworkers.html",
+		"/E/aa/01.setcookie.html",
+		"/d/Users/User/Desktop/前端书图片/webstorage本地数据库.html",
+		"/E/aa/w3cfuns_code.html",
+		"/d/Users/User/Desktop/前端书图片/离线web.html",
+		"/d/Users/User/Desktop/前端书图片/webworkers.html",
+		"/C/Users/User/Downloads/w3cfuns_code.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day14/03.WebStorage.html",
+		"/d/Users/User/Desktop/前端书图片/6.1.html",
+		"/d/Users/User/Desktop/前端书图片/6.2.html",
+		"/d/Users/User/Desktop/前端书图片/第六章html5表单实例.html",
+		"/d/Users/User/Desktop/前端书图片/拖拽1.html",
+		"/d/Users/User/Desktop/前端书图片/拖拽列表.html",
+		"/D/Users/User/Desktop/前端书图片/拖放列表.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day14/作业.html",
+		"/E/JS备课/DEMO/本地储存day14/01.setcookie.html",
+		"/d/Users/User/Desktop/购物车/1.js",
+		"/d/Users/User/Desktop/购物车/index.html",
+		"/d/Users/User/Desktop/购物车/2.js",
+		"/d/Users/User/Desktop/购物车/cont.html",
+		"/F/JS备课/DEMO/系统时间对象/倒计时原理.html",
+		"/F/JS备课/DEMO/系统时间对象/课件及作业/1-系统时间.html",
+		"/F/JS备课/DEMO/系统时间对象/系统时间对象.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day12/01.String基本用法.html",
+		"/E/JS备课/DEMO/day02运算符，流程控制语句/06.html",
+		"/E/JS备课/DEMO/day02运算符，流程控制语句/05.html",
+		"/E/JS备课/JS备课笔记.txt",
+		"/E/JS备课/DEMO/day02运算符，流程控制语句/04.html",
+		"/E/JS备课/DEMO/day02运算符，流程控制语句/01.html",
+		"/E/JS备课/DEMO/day01JS基础简单输出/1212.html",
+		"/E/JS备课/DEMO/day01JS基础简单输出/01.html",
+		"/d/Users/User/Desktop/前端书图片/video.html",
+		"/d/Users/User/Desktop/前端书图片/audio.html",
+		"/E/BaiduNetdiskDownload/demo/汤老师JS备课教程/JavaScript代码/day03/01.switch结构.html",
+		"/F/JS备课/DEMO/系统时间对象/系统时间对想.html",
+		"/E/BaiduNetdiskDownload/demo/JS9-定时器管理、函数封装/课件及作业/7-抖函数的问题.html",
+		"/d/Users/User/Desktop/前端书图片/video。html",
+		"/d/Users/User/Desktop/前端书图片/canvas动态时钟.html",
+		"/d/Users/User/Desktop/前端书图片/canvas文本.html",
+		"/d/Users/User/Desktop/前端书图片/canvas旋转.html",
+		"/E/VUE/demo/day02/js.js",
+		"/E/VUE/demo/vue.txt",
+		"/E/VUE/demo/day02/增加便签任务.html",
+		"/E/VUE/demo/day02/style.css",
+		"/d/Users/User/Desktop/前端书图片/4-6.html",
+		"/E/JS备课/DEMO/day09/构造函数.html",
+		"/C/Users/User/Documents/Tencent Files/418637966/FileRecv/4-3三角形.html",
+		"/C/Users/User/Documents/Tencent Files/418637966/FileRecv/4-1.html",
+		"/C/Users/User/Documents/Tencent Files/418637966/FileRecv/4-2.html",
+		"/E/VUE/demo/day01/02_双向数据绑定.html",
+		"/d/Users/User/Desktop/张雅静 0405/index.css",
+		"/D/Users/User/Desktop/张雅静 0405/index.html",
+		"/E/VUE/demo/12.addClass.html",
+		"/E/VUE/demo/11.render.html",
+		"/E/JS备课/DEMO/系统时间对象/电子表.html",
+		"/E/JS备课/DEMO/系统时间对象/系统时间对象.html",
+		"/E/VUE/demo/01_vue基础模板.html",
+		"/E/VUE/demo/02_双向数据绑定.html",
+		"/E/VUE/demo/03_vue实例.html",
+		"/E/VUE/demo/04_声明式渲染.html",
+		"/E/VUE/demo/08.插值-表达式.html",
+		"/E/VUE/demo/07.插值-属性.html",
+		"/E/VUE/demo/06.插值-原生html.html",
+		"/E/VUE/demo/05_指令.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"　　全局作用域",
+			"函数1作用域",
+			"　　全局作用域",
+			"p",
+			"clear",
+			"<header> \n	<h1>Header Text</h1> \n	<nav>  \n		<ul>   \n			<li><a href=\"#\">Link</a></li>  \n			<li><a href=\"#\">Link</a></li>   \n			<li><a href=\"#\">Link</a></li>  \n		</ul> \n	</nav>\n</header><header> \n	<h1>Header Text</h1> \n	<nav>  \n		<ul>   \n			<li><a href=\"#\">Link</a></li>  \n			<li><a href=\"#\">Link</a></li>   \n			<li><a href=\"#\">Link</a></li>  \n		</ul> \n	</nav>\n</header>",
+			"<header> \n	<h1>Header Text</h1> \n	<nav>  \n		<ul>   \n			<li><a href=\"#\">Link</a></li>  \n			<li><a href=\"#\">Link</a></li>   \n			<li><a href=\"#\">Link</a></li>  \n		</ul> \n	</nav>\n</header>",
+			"<style>\nA.applink:hover {border: 2px dotted #DCE6F4;padding:2px;background-color:#ffff00;color:green;text-decoration:none}\nA.applink       {border: 2px dotted #DCE6F4;padding:2px;color:#2F5BFF;background:transparent;text-decoration:none}\nA.info          {color:#2F5BFF;background:transparent;text-decoration:none}\nA.info:hover    {color:green;background:transparent;text-decoration:underline}\n</style>\n<div style='BORDER: 1px solid #DCE6F4; MARGIN-TOP: 20px; MARGIN-BOTTOM: 20px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px; PADDING: 5px; BACKGROUND-COLOR: #eef8ff;line-height:180%; COLOR: #000000; font-family: Arial; font-size: 8pt; width=100%; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=\"#FFFFFFFF\", EndColorStr=\"#F2F5FAFF\");'>\nThis page was saved using <a class=\"applink\" href=\"http://www.spidersoft.com\"><b>WebZIP 7.0.3.1030</b></a> <a class=\"applink\" href=\"http://www.spidersoft.com\"><b>offline browser</b></a>  (Unregistered) on  2017/1/3 12:31:09.<br>\n<b>Address:</b> <a class=\"info\" href=\"http://www.17sucai.com/preview/1/2016-12-30/PPTCSS3/index.html\">http://www.17sucai.com/preview/1/2016-12-30/PPTCSS3/index.html</a><br>\n<b>Title:</b> css3 &nbsp;&bull;&nbsp; <b>Size:</b> 20310 &nbsp;&bull;&nbsp; <b>Last Modified:</b> 2016/12/30 10:59:41<br></div>",
+			"forwards",
+			"  ",
+			"infinite",
+			"Login",
+			"http://www.codingke.com/",
+			"script",
+			".js",
+			"es",
+			"Reg",
+			"reg_form",
+			"div",
+			"no",
+			"no-repeat",
+			"// ",
+			"left",
+			"txtScroll-top",
+			"570e07de3830a",
+			"only",
+			"i18ntable",
+			"1px",
+			"iamges",
+			"png",
+			"addTicketModal",
+			"srchFlight",
+			"flights",
+			"mag",
+			"mags",
+			"ms",
+			"loginController",
+			"lgnController",
+			"addF",
+			"192.168.21.8",
+			"preFligtht",
+			"myApp",
+			"$http",
+			"form",
+			"myApp",
+			"content431",
+			"查看效果",
+			"查看效果1",
+			"});\n",
+			"',\n",
+			"});\n",
+			"{\n",
+			"success",
+			"'../",
+			"(){\n",
+			"json",
+			"></",
+			".banner",
+			"njgcw.cn",
+			"huaihaizx.com",
+			"z-index",
+			"kao",
+			">\n",
+			"dia",
+			"dialog",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"a",
+			"/",
+			"",
+			"127.0.0.1",
+			"kjxtech.cn",
+			"timu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "st.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
